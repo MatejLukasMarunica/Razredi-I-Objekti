@@ -1,0 +1,8 @@
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\razrediIObjekti\razrediIObjekti\bin\Debug\razrediIObjekti.exe.config
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\razrediIObjekti\razrediIObjekti\bin\Debug\razrediIObjekti.exe
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\razrediIObjekti\razrediIObjekti\bin\Debug\razrediIObjekti.pdb
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\razrediIObjekti\razrediIObjekti\obj\Debug\razrediIObjekti.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\razrediIObjekti\razrediIObjekti\obj\Debug\razrediIObjekti.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\razrediIObjekti\razrediIObjekti\obj\Debug\razrediIObjekti.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\razrediIObjekti\razrediIObjekti\obj\Debug\razrediIObjekti.exe
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\razrediIObjekti\razrediIObjekti\obj\Debug\razrediIObjekti.pdb

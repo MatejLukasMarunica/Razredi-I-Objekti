@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "razrediIObjekti", "razrediIObjekti\razrediIObjekti.csproj", "{C0720644-DEB4-4E30-A3E5-77CC03D97E91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0720644-DEB4-4E30-A3E5-77CC03D97E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0720644-DEB4-4E30-A3E5-77CC03D97E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0720644-DEB4-4E30-A3E5-77CC03D97E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0720644-DEB4-4E30-A3E5-77CC03D97E91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46A34A3F-5C63-46F7-B26A-68CAA6AEC05C}
+	EndGlobalSection
+EndGlobal
